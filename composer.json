@@ -1,0 +1,18 @@
+{
+    "name": "yangyang/tongbu-spider",
+    "description": "tongbu.eduyun.cn video spider",
+    "autoload": {
+        "psr-4": {
+            "Yangyang\\TongbuSpider\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yangyang",
+            "email": "yy@qq.com"
+        }
+    ],
+    "require": {
+        "jaeger/querylist": "^4.2"
+    }
+}
